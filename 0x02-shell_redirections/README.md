@@ -1,0 +1,1 @@
+This project is aimed at enlightening me to gain more knowledge about shell directions
